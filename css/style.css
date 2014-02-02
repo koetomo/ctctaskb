@@ -1,0 +1,12 @@
+/* Put your CSS here */
+.ember-application {
+    margin: 20px;
+}
+
+.name-square {
+	width: 18%;
+	border-radius:5px;
+	border:black solid 1px;
+	padding:10px;
+	margin:1%;
+}
